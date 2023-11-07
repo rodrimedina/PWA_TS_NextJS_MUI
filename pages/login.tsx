@@ -1,7 +1,5 @@
-import Login from "@/src/login/Login";
-
 const login = () => {
-  return <Login />;
+  return sesion;
 };
 
 export default login;

@@ -1,7 +1,5 @@
-import Plans from "@/src/planes/Plans";
-
 const planes = () => {
-  return <Plans />;
+  return plan;
 };
 
 export default planes;
